@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Kamalesh.
+I'm Kamalesh,
   <br>a Fullstack SAAS-platform developer , Highly Distributed Infrastructure & Blockchain enthisiast
  </p>
 <p> Passionate driven by the tech and practical algorithimic problems , Always exploring and implementing new ideas 
