@@ -3,7 +3,7 @@
 I'm Kamalesh,
   <br>a Fullstack SAAS-platform developer , Highly Distributed Infrastructure & Blockchain enthisiast
  </p>
-<p> Passionate driven by the tech and practical algorithimic problems , Always exploring and implementing new ideas 
+<p> Passionate driven by the tech and practical algorithimic problems , Always exploring and implementing new ideas .
     <br> looking for a dynamic environment where I can wear many hats 
 </p>
 <p> 
