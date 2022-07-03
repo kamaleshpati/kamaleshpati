@@ -19,7 +19,7 @@ Always finding different kind of problems and solutions in a different way and k
 <h2>But lastly a great team player</h2>
 
 expertise : java and jvm based languages, python, go, rustlang, cpp , JS/TS, blockchain/fullstack-service and platform building
-Portfolio in building : https://portfolio-j4etuiesp-kamaleshpati.vercel.app/ 
+Portfolio in building : https://kamaleshpati.github.io/ 
 </p>
 <h1 align='center'><i>Stay Hungry!</i></h1>
 <h3 align='center'><a href="https://www.linkedin.com/in/kamalesh-pati-j97/">Contact me to get in touch now!</a></h3>
