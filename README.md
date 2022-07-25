@@ -16,7 +16,7 @@ Always trying to find all the solution , Not the most-efficient one that narrows
 Aspire to be an awesome System Architect .
 
 Always finding different kind of problems and solutions in a different way and keeping myself occupied with projects or problems, 
-<h2>But lastly a great team player</h2>
+<h3>And lastly a great team player</h3>
 
 expertise : java and jvm based languages, python, go, rustlang, cpp , JS/TS, blockchain/fullstack-service and platform building
 Portfolio in building : https://kamaleshpati.github.io/ 
