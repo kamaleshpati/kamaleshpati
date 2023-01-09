@@ -6,7 +6,11 @@ I'm Kamalesh,
 <p> Passionate driven by the tech and practical algorithimic problems , Always exploring and implementing new ideas .
     <br> looking for a dynamic environment where I can wear many hats 
 </p>
+<p>
+ 
+</p>
 <p> 
+ Helping startup build MVP and and Tech-Consulting for product and quick building of platforms . </br>
 Currently working on ETL based datapipeline product to provide data from different sources and formats loaded to different data werehouse with standard and loss less format with utmost security and and ready to serve the analytical purpose while being fast and flawless and less configuration across different platform. Have worked with web and process automation for different customers (for AMAZON acquired companies) to process their daily tasks faster and flawless while providing them all kind of UI supports and controls .
 
 Great admirer of algorithms and design patterns, system/kernel development as Monolith or microservice and Blockchain tech .
