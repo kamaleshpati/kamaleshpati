@@ -10,7 +10,7 @@ I'm Kamalesh,
  
 </p>
 <p> 
- Helping startup build MVP and and Tech-Consulting for product and quick building of platforms . </br>
+ Helping startup build MVP and and Tech-Consulting for product and building platforms . </br>
 
 Great admirer of algorithms and design patterns, saas development as monolith or microservice and Blockchain tech .
 
